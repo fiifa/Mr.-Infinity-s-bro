@@ -14,7 +14,7 @@ module.exports = async client => {
   
      client.user.setActivity("", { type: "STREAMING" });
   }; setInterval(status, 10000)
-
+*/
 
 
 
